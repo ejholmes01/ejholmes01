@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ejholmes01
+- 👋 Hi, I’m Electra Holmes (@ejholmes01) at GSA.
 - 👀 I’m interested in repos, learning resources and issue tracker (project documentation and feedback
 - 🌱 I’m currently learning IaC and other tools.
 - 💞️ I’m looking to collaborate and contribute on various cloud intake projects.
